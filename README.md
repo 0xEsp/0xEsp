@@ -3,10 +3,10 @@
 
 -----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManuEspesoJbs&label=Profile%20views&color=0e75b6&style=flat" alt="ManuEspesoJbs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xEsp&label=Profile%20views&color=0e75b6&style=flat" alt="0xEsp" /> </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ManuEspesoJbs?label=ManuEspesoJbs&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/ManuEspesoJbs?logo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/0xEsp?logo=GitHub&style=for-the-badge)
 
 I am Manu, Mobile & Backend from Spain, living in Madrid <img src="./madrid.gif" height="20" width="40" />
 	<br>
@@ -17,7 +17,7 @@ I'm always looking for new opportunities, so if you've landed here, let's keep i
 ### Connect with me: <img src="./backhand-index-pointing-down-joypixels.gif" height="40" width="40" />
 
 <a href="https://www.linkedin.com/in/manuel-espeso-mart%C3%ADn-588993172/" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" /></a>
-<a href="mailto:jobs@manuelespeso.com"><img src="./outlooklogo.gif" width="60" /></a>
+<a href="mailto:espeso86@gmail.com"><img src="./outlooklogo.gif" width="60" /></a>
 
 </p>
 
@@ -35,9 +35,9 @@ class About: Me {
           return [
                 "Swift",
                 "SwiftUI",
-                "Vapor",
-                "Flutter",
-                "Kotlin",
+		"Flutter",
+                "NodeJS",
+		"NestJS",
                 "SpringBoot"
           ]
     }
@@ -46,7 +46,6 @@ class About: Me {
           return [
                 "iOS Developer",
                 "Flutter Developer",
-                "Android Developer",
                 "Backend Developer"
           ]
     }
@@ -57,9 +56,9 @@ class About: Me {
 
 -----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuEspesoJbs&layout=compact&hide=html" alt="ManuEspesoJbs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEsp&layout=compact" alt="0xEsp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManuEspesoJbs&show_icons=true" alt="ManuEspesoJbs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xEsp&show_icons=true" alt="0xEsp" /></p>
 
 -----
 
